@@ -1,0 +1,4 @@
+# Ignore sensitive files
+appsettings.json
+Properties/launchSettings.json
+appsettings.Development.json
