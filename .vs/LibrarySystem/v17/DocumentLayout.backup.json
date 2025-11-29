@@ -1,0 +1,731 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sarah_Refaat\\OneDrive\\Desktop\\LibrarySystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5A109EFA-1EF8-4B66-A242-22416D6413A0}|LibrarySystem.csproj|c:\\users\\sarah_refaat\\onedrive\\desktop\\librarysystem\\presentation\\controllers\\loancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A109EFA-1EF8-4B66-A242-22416D6413A0}|LibrarySystem.csproj|solutionrelative:presentation\\controllers\\loancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A109EFA-1EF8-4B66-A242-22416D6413A0}|LibrarySystem.csproj|c:\\users\\sarah_refaat\\onedrive\\desktop\\librarysystem\\dataaccesslayer\\repositories\\loanrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A109EFA-1EF8-4B66-A242-22416D6413A0}|LibrarySystem.csproj|solutionrelative:dataaccesslayer\\repositories\\loanrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A109EFA-1EF8-4B66-A242-22416D6413A0}|LibrarySystem.csproj|c:\\users\\sarah_refaat\\onedrive\\desktop\\librarysystem\\busnisslogic\\servicesclasses\\loanservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A109EFA-1EF8-4B66-A242-22416D6413A0}|LibrarySystem.csproj|solutionrelative:busnisslogic\\servicesclasses\\loanservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A109EFA-1EF8-4B66-A242-22416D6413A0}|LibrarySystem.csproj|c:\\users\\sarah_refaat\\onedrive\\desktop\\librarysystem\\domain\\entities\\loan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A109EFA-1EF8-4B66-A242-22416D6413A0}|LibrarySystem.csproj|solutionrelative:domain\\entities\\loan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A109EFA-1EF8-4B66-A242-22416D6413A0}|LibrarySystem.csproj|c:\\users\\sarah_refaat\\onedrive\\desktop\\librarysystem\\domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A109EFA-1EF8-4B66-A242-22416D6413A0}|LibrarySystem.csproj|solutionrelative:domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A109EFA-1EF8-4B66-A242-22416D6413A0}|LibrarySystem.csproj|c:\\users\\sarah_refaat\\onedrive\\desktop\\librarysystem\\busnisslogic\\servicesinterfaces\\iloanservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A109EFA-1EF8-4B66-A242-22416D6413A0}|LibrarySystem.csproj|solutionrelative:busnisslogic\\servicesinterfaces\\iloanservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A109EFA-1EF8-4B66-A242-22416D6413A0}|LibrarySystem.csproj|c:\\users\\sarah_refaat\\onedrive\\desktop\\librarysystem\\presentation\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A109EFA-1EF8-4B66-A242-22416D6413A0}|LibrarySystem.csproj|solutionrelative:presentation\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A109EFA-1EF8-4B66-A242-22416D6413A0}|LibrarySystem.csproj|c:\\users\\sarah_refaat\\onedrive\\desktop\\librarysystem\\busnisslogic\\dtos\\userdtos\\usercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A109EFA-1EF8-4B66-A242-22416D6413A0}|LibrarySystem.csproj|solutionrelative:busnisslogic\\dtos\\userdtos\\usercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A109EFA-1EF8-4B66-A242-22416D6413A0}|LibrarySystem.csproj|c:\\users\\sarah_refaat\\onedrive\\desktop\\librarysystem\\presentation\\controllers\\membercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A109EFA-1EF8-4B66-A242-22416D6413A0}|LibrarySystem.csproj|solutionrelative:presentation\\controllers\\membercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A109EFA-1EF8-4B66-A242-22416D6413A0}|LibrarySystem.csproj|c:\\users\\sarah_refaat\\onedrive\\desktop\\librarysystem\\dataaccesslayer\\repositories\\memberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A109EFA-1EF8-4B66-A242-22416D6413A0}|LibrarySystem.csproj|solutionrelative:dataaccesslayer\\repositories\\memberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A109EFA-1EF8-4B66-A242-22416D6413A0}|LibrarySystem.csproj|c:\\users\\sarah_refaat\\onedrive\\desktop\\librarysystem\\busnisslogic\\servicesclasses\\memberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A109EFA-1EF8-4B66-A242-22416D6413A0}|LibrarySystem.csproj|solutionrelative:busnisslogic\\servicesclasses\\memberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A109EFA-1EF8-4B66-A242-22416D6413A0}|LibrarySystem.csproj|c:\\users\\sarah_refaat\\onedrive\\desktop\\librarysystem\\presentation\\controllers\\librariancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A109EFA-1EF8-4B66-A242-22416D6413A0}|LibrarySystem.csproj|solutionrelative:presentation\\controllers\\librariancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A109EFA-1EF8-4B66-A242-22416D6413A0}|LibrarySystem.csproj|c:\\users\\sarah_refaat\\onedrive\\desktop\\librarysystem\\presentation\\controllers\\fileuploadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A109EFA-1EF8-4B66-A242-22416D6413A0}|LibrarySystem.csproj|solutionrelative:presentation\\controllers\\fileuploadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A109EFA-1EF8-4B66-A242-22416D6413A0}|LibrarySystem.csproj|c:\\users\\sarah_refaat\\onedrive\\desktop\\librarysystem\\presentation\\controllers\\authorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A109EFA-1EF8-4B66-A242-22416D6413A0}|LibrarySystem.csproj|solutionrelative:presentation\\controllers\\authorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A109EFA-1EF8-4B66-A242-22416D6413A0}|LibrarySystem.csproj|c:\\users\\sarah_refaat\\onedrive\\desktop\\librarysystem\\presentation\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A109EFA-1EF8-4B66-A242-22416D6413A0}|LibrarySystem.csproj|solutionrelative:presentation\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A109EFA-1EF8-4B66-A242-22416D6413A0}|LibrarySystem.csproj|c:\\users\\sarah_refaat\\onedrive\\desktop\\librarysystem\\presentation\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A109EFA-1EF8-4B66-A242-22416D6413A0}|LibrarySystem.csproj|solutionrelative:presentation\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A109EFA-1EF8-4B66-A242-22416D6413A0}|LibrarySystem.csproj|c:\\users\\sarah_refaat\\onedrive\\desktop\\librarysystem\\presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A109EFA-1EF8-4B66-A242-22416D6413A0}|LibrarySystem.csproj|solutionrelative:presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A109EFA-1EF8-4B66-A242-22416D6413A0}|LibrarySystem.csproj|c:\\users\\sarah_refaat\\onedrive\\desktop\\librarysystem\\busnisslogic\\dtos\\loandtos\\loanupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A109EFA-1EF8-4B66-A242-22416D6413A0}|LibrarySystem.csproj|solutionrelative:busnisslogic\\dtos\\loandtos\\loanupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A109EFA-1EF8-4B66-A242-22416D6413A0}|LibrarySystem.csproj|c:\\users\\sarah_refaat\\onedrive\\desktop\\librarysystem\\busnisslogic\\dtos\\loandtos\\loanreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A109EFA-1EF8-4B66-A242-22416D6413A0}|LibrarySystem.csproj|solutionrelative:busnisslogic\\dtos\\loandtos\\loanreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A109EFA-1EF8-4B66-A242-22416D6413A0}|LibrarySystem.csproj|c:\\users\\sarah_refaat\\onedrive\\desktop\\librarysystem\\busnisslogic\\dtos\\loandtos\\loanadddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A109EFA-1EF8-4B66-A242-22416D6413A0}|LibrarySystem.csproj|solutionrelative:busnisslogic\\dtos\\loandtos\\loanadddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A109EFA-1EF8-4B66-A242-22416D6413A0}|LibrarySystem.csproj|c:\\users\\sarah_refaat\\onedrive\\desktop\\librarysystem\\dataaccesslayer\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A109EFA-1EF8-4B66-A242-22416D6413A0}|LibrarySystem.csproj|solutionrelative:dataaccesslayer\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A109EFA-1EF8-4B66-A242-22416D6413A0}|LibrarySystem.csproj|c:\\users\\sarah_refaat\\onedrive\\desktop\\librarysystem\\dataaccesslayer\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A109EFA-1EF8-4B66-A242-22416D6413A0}|LibrarySystem.csproj|solutionrelative:dataaccesslayer\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A109EFA-1EF8-4B66-A242-22416D6413A0}|LibrarySystem.csproj|c:\\users\\sarah_refaat\\onedrive\\desktop\\librarysystem\\domain\\reposinterfaces\\iloanrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A109EFA-1EF8-4B66-A242-22416D6413A0}|LibrarySystem.csproj|solutionrelative:domain\\reposinterfaces\\iloanrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A109EFA-1EF8-4B66-A242-22416D6413A0}|LibrarySystem.csproj|c:\\users\\sarah_refaat\\onedrive\\desktop\\librarysystem\\busnisslogic\\dtos\\memberdtos\\membercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A109EFA-1EF8-4B66-A242-22416D6413A0}|LibrarySystem.csproj|solutionrelative:busnisslogic\\dtos\\memberdtos\\membercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A109EFA-1EF8-4B66-A242-22416D6413A0}|LibrarySystem.csproj|c:\\users\\sarah_refaat\\onedrive\\desktop\\librarysystem\\busnisslogic\\mapping\\authorprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A109EFA-1EF8-4B66-A242-22416D6413A0}|LibrarySystem.csproj|solutionrelative:busnisslogic\\mapping\\authorprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A109EFA-1EF8-4B66-A242-22416D6413A0}|LibrarySystem.csproj|c:\\users\\sarah_refaat\\onedrive\\desktop\\librarysystem\\busnisslogic\\dtos\\authordtos\\authorreadwithbooksdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A109EFA-1EF8-4B66-A242-22416D6413A0}|LibrarySystem.csproj|solutionrelative:busnisslogic\\dtos\\authordtos\\authorreadwithbooksdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A109EFA-1EF8-4B66-A242-22416D6413A0}|LibrarySystem.csproj|c:\\users\\sarah_refaat\\onedrive\\desktop\\librarysystem\\busnisslogic\\servicesclasses\\authorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A109EFA-1EF8-4B66-A242-22416D6413A0}|LibrarySystem.csproj|solutionrelative:busnisslogic\\servicesclasses\\authorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A109EFA-1EF8-4B66-A242-22416D6413A0}|LibrarySystem.csproj|c:\\users\\sarah_refaat\\onedrive\\desktop\\librarysystem\\dataaccesslayer\\repositories\\unitofworks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A109EFA-1EF8-4B66-A242-22416D6413A0}|LibrarySystem.csproj|solutionrelative:dataaccesslayer\\repositories\\unitofworks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A109EFA-1EF8-4B66-A242-22416D6413A0}|LibrarySystem.csproj|c:\\users\\sarah_refaat\\onedrive\\desktop\\librarysystem\\dataaccesslayer\\repositories\\authorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A109EFA-1EF8-4B66-A242-22416D6413A0}|LibrarySystem.csproj|solutionrelative:dataaccesslayer\\repositories\\authorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A109EFA-1EF8-4B66-A242-22416D6413A0}|LibrarySystem.csproj|c:\\users\\sarah_refaat\\onedrive\\desktop\\librarysystem\\dataaccesslayer\\dbseeder\\authorsseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A109EFA-1EF8-4B66-A242-22416D6413A0}|LibrarySystem.csproj|solutionrelative:dataaccesslayer\\dbseeder\\authorsseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A109EFA-1EF8-4B66-A242-22416D6413A0}|LibrarySystem.csproj|c:\\users\\sarah_refaat\\onedrive\\desktop\\librarysystem\\busnisslogic\\dtos\\authordtos\\authorreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A109EFA-1EF8-4B66-A242-22416D6413A0}|LibrarySystem.csproj|solutionrelative:busnisslogic\\dtos\\authordtos\\authorreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A109EFA-1EF8-4B66-A242-22416D6413A0}|LibrarySystem.csproj|c:\\users\\sarah_refaat\\onedrive\\desktop\\librarysystem\\domain\\entities\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A109EFA-1EF8-4B66-A242-22416D6413A0}|LibrarySystem.csproj|solutionrelative:domain\\entities\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A109EFA-1EF8-4B66-A242-22416D6413A0}|LibrarySystem.csproj|c:\\users\\sarah_refaat\\onedrive\\desktop\\librarysystem\\busnisslogic\\mapping\\categoriesprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A109EFA-1EF8-4B66-A242-22416D6413A0}|LibrarySystem.csproj|solutionrelative:busnisslogic\\mapping\\categoriesprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A109EFA-1EF8-4B66-A242-22416D6413A0}|LibrarySystem.csproj|c:\\users\\sarah_refaat\\onedrive\\desktop\\librarysystem\\busnisslogic\\dtos\\categoriesdtos\\readcategoriesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A109EFA-1EF8-4B66-A242-22416D6413A0}|LibrarySystem.csproj|solutionrelative:busnisslogic\\dtos\\categoriesdtos\\readcategoriesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A109EFA-1EF8-4B66-A242-22416D6413A0}|LibrarySystem.csproj|c:\\users\\sarah_refaat\\onedrive\\desktop\\librarysystem\\domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A109EFA-1EF8-4B66-A242-22416D6413A0}|LibrarySystem.csproj|solutionrelative:domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A109EFA-1EF8-4B66-A242-22416D6413A0}|LibrarySystem.csproj|c:\\users\\sarah_refaat\\onedrive\\desktop\\librarysystem\\dataaccesslayer\\dbseeder\\categoriesseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A109EFA-1EF8-4B66-A242-22416D6413A0}|LibrarySystem.csproj|solutionrelative:dataaccesslayer\\dbseeder\\categoriesseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A109EFA-1EF8-4B66-A242-22416D6413A0}|LibrarySystem.csproj|c:\\users\\sarah_refaat\\onedrive\\desktop\\librarysystem\\busnisslogic\\servicesinterfaces\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A109EFA-1EF8-4B66-A242-22416D6413A0}|LibrarySystem.csproj|solutionrelative:busnisslogic\\servicesinterfaces\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A109EFA-1EF8-4B66-A242-22416D6413A0}|LibrarySystem.csproj|c:\\users\\sarah_refaat\\onedrive\\desktop\\librarysystem\\presentation\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A109EFA-1EF8-4B66-A242-22416D6413A0}|LibrarySystem.csproj|solutionrelative:presentation\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A109EFA-1EF8-4B66-A242-22416D6413A0}|LibrarySystem.csproj|c:\\users\\sarah_refaat\\onedrive\\desktop\\librarysystem\\busnisslogic\\servicesclasses\\bookservicecs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A109EFA-1EF8-4B66-A242-22416D6413A0}|LibrarySystem.csproj|solutionrelative:busnisslogic\\servicesclasses\\bookservicecs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A109EFA-1EF8-4B66-A242-22416D6413A0}|LibrarySystem.csproj|c:\\users\\sarah_refaat\\onedrive\\desktop\\librarysystem\\domain\\reposinterfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A109EFA-1EF8-4B66-A242-22416D6413A0}|LibrarySystem.csproj|solutionrelative:domain\\reposinterfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A109EFA-1EF8-4B66-A242-22416D6413A0}|LibrarySystem.csproj|c:\\users\\sarah_refaat\\onedrive\\desktop\\librarysystem\\dataaccesslayer\\dbseeder\\booksseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A109EFA-1EF8-4B66-A242-22416D6413A0}|LibrarySystem.csproj|solutionrelative:dataaccesslayer\\dbseeder\\booksseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A109EFA-1EF8-4B66-A242-22416D6413A0}|LibrarySystem.csproj|c:\\users\\sarah_refaat\\onedrive\\desktop\\librarysystem\\busnisslogic\\dtos\\registerdtos\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A109EFA-1EF8-4B66-A242-22416D6413A0}|LibrarySystem.csproj|solutionrelative:busnisslogic\\dtos\\registerdtos\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A109EFA-1EF8-4B66-A242-22416D6413A0}|LibrarySystem.csproj|c:\\users\\sarah_refaat\\onedrive\\desktop\\librarysystem\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5A109EFA-1EF8-4B66-A242-22416D6413A0}|LibrarySystem.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A109EFA-1EF8-4B66-A242-22416D6413A0}|LibrarySystem.csproj|c:\\users\\sarah_refaat\\onedrive\\desktop\\librarysystem\\librarysystem.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{5A109EFA-1EF8-4B66-A242-22416D6413A0}|LibrarySystem.csproj|solutionrelative:librarysystem.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\Sarah_Refaat\\OneDrive\\Desktop\\LibrarySystem\\BusnissLogic\\Dtos\\UserDtos\\UserCreateDto.cs",
+              "RelativeDocumentMoniker": "BusnissLogic\\Dtos\\UserDtos\\UserCreateDto.cs",
+              "ToolTip": "C:\\Users\\Sarah_Refaat\\OneDrive\\Desktop\\LibrarySystem\\BusnissLogic\\Dtos\\UserDtos\\UserCreateDto.cs",
+              "RelativeToolTip": "BusnissLogic\\Dtos\\UserDtos\\UserCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T19:45:11.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Sarah_Refaat\\OneDrive\\Desktop\\LibrarySystem\\Presentation\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Presentation\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Sarah_Refaat\\OneDrive\\Desktop\\LibrarySystem\\Presentation\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Presentation\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAGMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T17:35:32.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoanController.cs",
+              "DocumentMoniker": "C:\\Users\\Sarah_Refaat\\OneDrive\\Desktop\\LibrarySystem\\Presentation\\Controllers\\LoanController.cs",
+              "RelativeDocumentMoniker": "Presentation\\Controllers\\LoanController.cs",
+              "ToolTip": "C:\\Users\\Sarah_Refaat\\OneDrive\\Desktop\\LibrarySystem\\Presentation\\Controllers\\LoanController.cs",
+              "RelativeToolTip": "Presentation\\Controllers\\LoanController.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAowIAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T17:35:08.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ILoanService.cs",
+              "DocumentMoniker": "C:\\Users\\Sarah_Refaat\\OneDrive\\Desktop\\LibrarySystem\\BusnissLogic\\ServicesInterfaces\\ILoanService.cs",
+              "RelativeDocumentMoniker": "BusnissLogic\\ServicesInterfaces\\ILoanService.cs",
+              "ToolTip": "C:\\Users\\Sarah_Refaat\\OneDrive\\Desktop\\LibrarySystem\\BusnissLogic\\ServicesInterfaces\\ILoanService.cs",
+              "RelativeToolTip": "BusnissLogic\\ServicesInterfaces\\ILoanService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T06:30:14.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoanService.cs",
+              "DocumentMoniker": "C:\\Users\\Sarah_Refaat\\OneDrive\\Desktop\\LibrarySystem\\BusnissLogic\\ServicesClasses\\LoanService.cs",
+              "RelativeDocumentMoniker": "BusnissLogic\\ServicesClasses\\LoanService.cs",
+              "ToolTip": "C:\\Users\\Sarah_Refaat\\OneDrive\\Desktop\\LibrarySystem\\BusnissLogic\\ServicesClasses\\LoanService.cs",
+              "RelativeToolTip": "BusnissLogic\\ServicesClasses\\LoanService.cs",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAAAIMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T06:02:39.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoanRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Sarah_Refaat\\OneDrive\\Desktop\\LibrarySystem\\DataAccessLayer\\Repositories\\LoanRepository.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Repositories\\LoanRepository.cs",
+              "ToolTip": "C:\\Users\\Sarah_Refaat\\OneDrive\\Desktop\\LibrarySystem\\DataAccessLayer\\Repositories\\LoanRepository.cs",
+              "RelativeToolTip": "DataAccessLayer\\Repositories\\LoanRepository.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAFwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T06:32:09.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Loan.cs",
+              "DocumentMoniker": "C:\\Users\\Sarah_Refaat\\OneDrive\\Desktop\\LibrarySystem\\Domain\\Entities\\Loan.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Loan.cs",
+              "ToolTip": "C:\\Users\\Sarah_Refaat\\OneDrive\\Desktop\\LibrarySystem\\Domain\\Entities\\Loan.cs",
+              "RelativeToolTip": "Domain\\Entities\\Loan.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAuwCEAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T06:42:20.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Sarah_Refaat\\OneDrive\\Desktop\\LibrarySystem\\Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\Sarah_Refaat\\OneDrive\\Desktop\\LibrarySystem\\Domain\\Entities\\User.cs",
+              "RelativeToolTip": "Domain\\Entities\\User.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwCoAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T20:06:48.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MemberController.cs",
+              "DocumentMoniker": "C:\\Users\\Sarah_Refaat\\OneDrive\\Desktop\\LibrarySystem\\Presentation\\Controllers\\MemberController.cs",
+              "RelativeDocumentMoniker": "Presentation\\Controllers\\MemberController.cs",
+              "ToolTip": "C:\\Users\\Sarah_Refaat\\OneDrive\\Desktop\\LibrarySystem\\Presentation\\Controllers\\MemberController.cs",
+              "RelativeToolTip": "Presentation\\Controllers\\MemberController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwEUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T17:34:30.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MemberRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Sarah_Refaat\\OneDrive\\Desktop\\LibrarySystem\\DataAccessLayer\\Repositories\\MemberRepository.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Repositories\\MemberRepository.cs",
+              "ToolTip": "C:\\Users\\Sarah_Refaat\\OneDrive\\Desktop\\LibrarySystem\\DataAccessLayer\\Repositories\\MemberRepository.cs",
+              "RelativeToolTip": "DataAccessLayer\\Repositories\\MemberRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T05:11:19.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MemberService.cs",
+              "DocumentMoniker": "C:\\Users\\Sarah_Refaat\\OneDrive\\Desktop\\LibrarySystem\\BusnissLogic\\ServicesClasses\\MemberService.cs",
+              "RelativeDocumentMoniker": "BusnissLogic\\ServicesClasses\\MemberService.cs",
+              "ToolTip": "C:\\Users\\Sarah_Refaat\\OneDrive\\Desktop\\LibrarySystem\\BusnissLogic\\ServicesClasses\\MemberService.cs",
+              "RelativeToolTip": "BusnissLogic\\ServicesClasses\\MemberService.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T05:11:05.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LibrarianController.cs",
+              "DocumentMoniker": "C:\\Users\\Sarah_Refaat\\OneDrive\\Desktop\\LibrarySystem\\Presentation\\Controllers\\LibrarianController.cs",
+              "RelativeDocumentMoniker": "Presentation\\Controllers\\LibrarianController.cs",
+              "ToolTip": "C:\\Users\\Sarah_Refaat\\OneDrive\\Desktop\\LibrarySystem\\Presentation\\Controllers\\LibrarianController.cs",
+              "RelativeToolTip": "Presentation\\Controllers\\LibrarianController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwEcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T17:34:59.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FileUploadController.cs",
+              "DocumentMoniker": "C:\\Users\\Sarah_Refaat\\OneDrive\\Desktop\\LibrarySystem\\Presentation\\Controllers\\FileUploadController.cs",
+              "RelativeDocumentMoniker": "Presentation\\Controllers\\FileUploadController.cs",
+              "ToolTip": "C:\\Users\\Sarah_Refaat\\OneDrive\\Desktop\\LibrarySystem\\Presentation\\Controllers\\FileUploadController.cs",
+              "RelativeToolTip": "Presentation\\Controllers\\FileUploadController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwDsAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T17:34:57.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AuthorsController.cs",
+              "DocumentMoniker": "C:\\Users\\Sarah_Refaat\\OneDrive\\Desktop\\LibrarySystem\\Presentation\\Controllers\\AuthorsController.cs",
+              "RelativeDocumentMoniker": "Presentation\\Controllers\\AuthorsController.cs",
+              "ToolTip": "C:\\Users\\Sarah_Refaat\\OneDrive\\Desktop\\LibrarySystem\\Presentation\\Controllers\\AuthorsController.cs",
+              "RelativeToolTip": "Presentation\\Controllers\\AuthorsController.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAkwB4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T17:34:51.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\Sarah_Refaat\\OneDrive\\Desktop\\LibrarySystem\\Presentation\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Presentation\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\Sarah_Refaat\\OneDrive\\Desktop\\LibrarySystem\\Presentation\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Presentation\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAwwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T17:34:56.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Users\\Sarah_Refaat\\OneDrive\\Desktop\\LibrarySystem\\Presentation\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "Presentation\\Controllers\\BookController.cs",
+              "ToolTip": "C:\\Users\\Sarah_Refaat\\OneDrive\\Desktop\\LibrarySystem\\Presentation\\Controllers\\BookController.cs",
+              "RelativeToolTip": "Presentation\\Controllers\\BookController.cs",
+              "ViewState": "AgIAAIMAAAAAAAAAAAAswCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T17:34:53.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sarah_Refaat\\OneDrive\\Desktop\\LibrarySystem\\Presentation\\Program.cs",
+              "RelativeDocumentMoniker": "Presentation\\Program.cs",
+              "ToolTip": "C:\\Users\\Sarah_Refaat\\OneDrive\\Desktop\\LibrarySystem\\Presentation\\Program.cs",
+              "RelativeToolTip": "Presentation\\Program.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T19:48:13.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "LoanAddDto.cs",
+              "DocumentMoniker": "C:\\Users\\Sarah_Refaat\\OneDrive\\Desktop\\LibrarySystem\\BusnissLogic\\Dtos\\LoanDtos\\LoanAddDto.cs",
+              "RelativeDocumentMoniker": "BusnissLogic\\Dtos\\LoanDtos\\LoanAddDto.cs",
+              "ToolTip": "C:\\Users\\Sarah_Refaat\\OneDrive\\Desktop\\LibrarySystem\\BusnissLogic\\Dtos\\LoanDtos\\LoanAddDto.cs",
+              "RelativeToolTip": "BusnissLogic\\Dtos\\LoanDtos\\LoanAddDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T19:26:33.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LoanReadDto.cs",
+              "DocumentMoniker": "C:\\Users\\Sarah_Refaat\\OneDrive\\Desktop\\LibrarySystem\\BusnissLogic\\Dtos\\LoanDtos\\LoanReadDto.cs",
+              "RelativeDocumentMoniker": "BusnissLogic\\Dtos\\LoanDtos\\LoanReadDto.cs",
+              "ToolTip": "C:\\Users\\Sarah_Refaat\\OneDrive\\Desktop\\LibrarySystem\\BusnissLogic\\Dtos\\LoanDtos\\LoanReadDto.cs",
+              "RelativeToolTip": "BusnissLogic\\Dtos\\LoanDtos\\LoanReadDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T19:26:42.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "LoanUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\Sarah_Refaat\\OneDrive\\Desktop\\LibrarySystem\\BusnissLogic\\Dtos\\LoanDtos\\LoanUpdateDto.cs",
+              "RelativeDocumentMoniker": "BusnissLogic\\Dtos\\LoanDtos\\LoanUpdateDto.cs",
+              "ToolTip": "C:\\Users\\Sarah_Refaat\\OneDrive\\Desktop\\LibrarySystem\\BusnissLogic\\Dtos\\LoanDtos\\LoanUpdateDto.cs",
+              "RelativeToolTip": "BusnissLogic\\Dtos\\LoanDtos\\LoanUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T19:26:54.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ILoanRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Sarah_Refaat\\OneDrive\\Desktop\\LibrarySystem\\Domain\\ReposInterfaces\\ILoanRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\ReposInterfaces\\ILoanRepository.cs",
+              "ToolTip": "C:\\Users\\Sarah_Refaat\\OneDrive\\Desktop\\LibrarySystem\\Domain\\ReposInterfaces\\ILoanRepository.cs",
+              "RelativeToolTip": "Domain\\ReposInterfaces\\ILoanRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T06:31:55.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Sarah_Refaat\\OneDrive\\Desktop\\LibrarySystem\\DataAccessLayer\\Repositories\\BookRepository.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Repositories\\BookRepository.cs",
+              "ToolTip": "C:\\Users\\Sarah_Refaat\\OneDrive\\Desktop\\LibrarySystem\\DataAccessLayer\\Repositories\\BookRepository.cs",
+              "RelativeToolTip": "DataAccessLayer\\Repositories\\BookRepository.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAArwDsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T19:24:49.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Sarah_Refaat\\OneDrive\\Desktop\\LibrarySystem\\DataAccessLayer\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\Sarah_Refaat\\OneDrive\\Desktop\\LibrarySystem\\DataAccessLayer\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "DataAccessLayer\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T07:07:57.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "MemberCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\Sarah_Refaat\\OneDrive\\Desktop\\LibrarySystem\\BusnissLogic\\Dtos\\MemberDtos\\MemberCreateDto.cs",
+              "RelativeDocumentMoniker": "BusnissLogic\\Dtos\\MemberDtos\\MemberCreateDto.cs",
+              "ToolTip": "C:\\Users\\Sarah_Refaat\\OneDrive\\Desktop\\LibrarySystem\\BusnissLogic\\Dtos\\MemberDtos\\MemberCreateDto.cs",
+              "RelativeToolTip": "BusnissLogic\\Dtos\\MemberDtos\\MemberCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T05:01:03.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AuthorProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Sarah_Refaat\\OneDrive\\Desktop\\LibrarySystem\\BusnissLogic\\Mapping\\AuthorProfile.cs",
+              "RelativeDocumentMoniker": "BusnissLogic\\Mapping\\AuthorProfile.cs",
+              "ToolTip": "C:\\Users\\Sarah_Refaat\\OneDrive\\Desktop\\LibrarySystem\\BusnissLogic\\Mapping\\AuthorProfile.cs",
+              "RelativeToolTip": "BusnissLogic\\Mapping\\AuthorProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T14:19:02.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AuthorReadWithBooksDto.cs",
+              "DocumentMoniker": "C:\\Users\\Sarah_Refaat\\OneDrive\\Desktop\\LibrarySystem\\BusnissLogic\\Dtos\\AuthorDtos\\AuthorReadWithBooksDto.cs",
+              "RelativeDocumentMoniker": "BusnissLogic\\Dtos\\AuthorDtos\\AuthorReadWithBooksDto.cs",
+              "ToolTip": "C:\\Users\\Sarah_Refaat\\OneDrive\\Desktop\\LibrarySystem\\BusnissLogic\\Dtos\\AuthorDtos\\AuthorReadWithBooksDto.cs",
+              "RelativeToolTip": "BusnissLogic\\Dtos\\AuthorDtos\\AuthorReadWithBooksDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T15:08:16.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AuthorService.cs",
+              "DocumentMoniker": "C:\\Users\\Sarah_Refaat\\OneDrive\\Desktop\\LibrarySystem\\BusnissLogic\\ServicesClasses\\AuthorService.cs",
+              "RelativeDocumentMoniker": "BusnissLogic\\ServicesClasses\\AuthorService.cs",
+              "ToolTip": "C:\\Users\\Sarah_Refaat\\OneDrive\\Desktop\\LibrarySystem\\BusnissLogic\\ServicesClasses\\AuthorService.cs",
+              "RelativeToolTip": "BusnissLogic\\ServicesClasses\\AuthorService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwDEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T14:48:19.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "unitofWorks.cs",
+              "DocumentMoniker": "C:\\Users\\Sarah_Refaat\\OneDrive\\Desktop\\LibrarySystem\\DataAccessLayer\\Repositories\\unitofWorks.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Repositories\\unitofWorks.cs",
+              "ToolTip": "C:\\Users\\Sarah_Refaat\\OneDrive\\Desktop\\LibrarySystem\\DataAccessLayer\\Repositories\\unitofWorks.cs",
+              "RelativeToolTip": "DataAccessLayer\\Repositories\\unitofWorks.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T14:53:55.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AuthorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Sarah_Refaat\\OneDrive\\Desktop\\LibrarySystem\\DataAccessLayer\\Repositories\\AuthorRepository.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Repositories\\AuthorRepository.cs",
+              "ToolTip": "C:\\Users\\Sarah_Refaat\\OneDrive\\Desktop\\LibrarySystem\\DataAccessLayer\\Repositories\\AuthorRepository.cs",
+              "RelativeToolTip": "DataAccessLayer\\Repositories\\AuthorRepository.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCMAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T14:52:30.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AuthorsSeeder.cs",
+              "DocumentMoniker": "C:\\Users\\Sarah_Refaat\\OneDrive\\Desktop\\LibrarySystem\\DataAccessLayer\\DbSeeder\\AuthorsSeeder.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\DbSeeder\\AuthorsSeeder.cs",
+              "ToolTip": "C:\\Users\\Sarah_Refaat\\OneDrive\\Desktop\\LibrarySystem\\DataAccessLayer\\DbSeeder\\AuthorsSeeder.cs",
+              "RelativeToolTip": "DataAccessLayer\\DbSeeder\\AuthorsSeeder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T14:22:07.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Author.cs",
+              "DocumentMoniker": "C:\\Users\\Sarah_Refaat\\OneDrive\\Desktop\\LibrarySystem\\Domain\\Entities\\Author.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Author.cs",
+              "ToolTip": "C:\\Users\\Sarah_Refaat\\OneDrive\\Desktop\\LibrarySystem\\Domain\\Entities\\Author.cs",
+              "RelativeToolTip": "Domain\\Entities\\Author.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T14:27:15.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "AuthorReadDto.cs",
+              "DocumentMoniker": "C:\\Users\\Sarah_Refaat\\OneDrive\\Desktop\\LibrarySystem\\BusnissLogic\\Dtos\\AuthorDtos\\AuthorReadDto.cs",
+              "RelativeDocumentMoniker": "BusnissLogic\\Dtos\\AuthorDtos\\AuthorReadDto.cs",
+              "ToolTip": "C:\\Users\\Sarah_Refaat\\OneDrive\\Desktop\\LibrarySystem\\BusnissLogic\\Dtos\\AuthorDtos\\AuthorReadDto.cs",
+              "RelativeToolTip": "BusnissLogic\\Dtos\\AuthorDtos\\AuthorReadDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T14:18:49.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "CategoriesProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Sarah_Refaat\\OneDrive\\Desktop\\LibrarySystem\\BusnissLogic\\Mapping\\CategoriesProfile.cs",
+              "RelativeDocumentMoniker": "BusnissLogic\\Mapping\\CategoriesProfile.cs",
+              "ToolTip": "C:\\Users\\Sarah_Refaat\\OneDrive\\Desktop\\LibrarySystem\\BusnissLogic\\Mapping\\CategoriesProfile.cs",
+              "RelativeToolTip": "BusnissLogic\\Mapping\\CategoriesProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T13:24:48.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ReadCategoriesDto.cs",
+              "DocumentMoniker": "C:\\Users\\Sarah_Refaat\\OneDrive\\Desktop\\LibrarySystem\\BusnissLogic\\Dtos\\CategoriesDtos\\ReadCategoriesDto.cs",
+              "RelativeDocumentMoniker": "BusnissLogic\\Dtos\\CategoriesDtos\\ReadCategoriesDto.cs",
+              "ToolTip": "C:\\Users\\Sarah_Refaat\\OneDrive\\Desktop\\LibrarySystem\\BusnissLogic\\Dtos\\CategoriesDtos\\ReadCategoriesDto.cs",
+              "RelativeToolTip": "BusnissLogic\\Dtos\\CategoriesDtos\\ReadCategoriesDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T13:23:12.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Sarah_Refaat\\OneDrive\\Desktop\\LibrarySystem\\Domain\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Category.cs",
+              "ToolTip": "C:\\Users\\Sarah_Refaat\\OneDrive\\Desktop\\LibrarySystem\\Domain\\Entities\\Category.cs",
+              "RelativeToolTip": "Domain\\Entities\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T13:23:58.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "CategoriesSeeder.cs",
+              "DocumentMoniker": "C:\\Users\\Sarah_Refaat\\OneDrive\\Desktop\\LibrarySystem\\DataAccessLayer\\DbSeeder\\CategoriesSeeder.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\DbSeeder\\CategoriesSeeder.cs",
+              "ToolTip": "C:\\Users\\Sarah_Refaat\\OneDrive\\Desktop\\LibrarySystem\\DataAccessLayer\\DbSeeder\\CategoriesSeeder.cs",
+              "RelativeToolTip": "DataAccessLayer\\DbSeeder\\CategoriesSeeder.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T13:22:50.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "IBookService.cs",
+              "DocumentMoniker": "C:\\Users\\Sarah_Refaat\\OneDrive\\Desktop\\LibrarySystem\\BusnissLogic\\ServicesInterfaces\\IBookService.cs",
+              "RelativeDocumentMoniker": "BusnissLogic\\ServicesInterfaces\\IBookService.cs",
+              "ToolTip": "C:\\Users\\Sarah_Refaat\\OneDrive\\Desktop\\LibrarySystem\\BusnissLogic\\ServicesInterfaces\\IBookService.cs",
+              "RelativeToolTip": "BusnissLogic\\ServicesInterfaces\\IBookService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T17:22:46.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Sarah_Refaat\\OneDrive\\Desktop\\LibrarySystem\\Presentation\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Presentation\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Sarah_Refaat\\OneDrive\\Desktop\\LibrarySystem\\Presentation\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Presentation\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T19:34:37.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "BooksSeeder.cs",
+              "DocumentMoniker": "C:\\Users\\Sarah_Refaat\\OneDrive\\Desktop\\LibrarySystem\\DataAccessLayer\\DbSeeder\\BooksSeeder.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\DbSeeder\\BooksSeeder.cs",
+              "ToolTip": "C:\\Users\\Sarah_Refaat\\OneDrive\\Desktop\\LibrarySystem\\DataAccessLayer\\DbSeeder\\BooksSeeder.cs",
+              "RelativeToolTip": "DataAccessLayer\\DbSeeder\\BooksSeeder.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwDQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T19:46:02.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "BookServicecs.cs",
+              "DocumentMoniker": "C:\\Users\\Sarah_Refaat\\OneDrive\\Desktop\\LibrarySystem\\BusnissLogic\\ServicesClasses\\BookServicecs.cs",
+              "RelativeDocumentMoniker": "BusnissLogic\\ServicesClasses\\BookServicecs.cs",
+              "ToolTip": "C:\\Users\\Sarah_Refaat\\OneDrive\\Desktop\\LibrarySystem\\BusnissLogic\\ServicesClasses\\BookServicecs.cs",
+              "RelativeToolTip": "BusnissLogic\\ServicesClasses\\BookServicecs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T17:22:59.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Sarah_Refaat\\OneDrive\\Desktop\\LibrarySystem\\Domain\\ReposInterfaces\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\ReposInterfaces\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\Sarah_Refaat\\OneDrive\\Desktop\\LibrarySystem\\Domain\\ReposInterfaces\\IGenericRepository.cs",
+              "RelativeToolTip": "Domain\\ReposInterfaces\\IGenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T17:39:06.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Register.cs",
+              "DocumentMoniker": "C:\\Users\\Sarah_Refaat\\OneDrive\\Desktop\\LibrarySystem\\BusnissLogic\\Dtos\\RegisterDtos\\Register.cs",
+              "RelativeDocumentMoniker": "BusnissLogic\\Dtos\\RegisterDtos\\Register.cs",
+              "ToolTip": "C:\\Users\\Sarah_Refaat\\OneDrive\\Desktop\\LibrarySystem\\BusnissLogic\\Dtos\\RegisterDtos\\Register.cs",
+              "RelativeToolTip": "BusnissLogic\\Dtos\\RegisterDtos\\Register.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T19:52:38.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Sarah_Refaat\\OneDrive\\Desktop\\LibrarySystem\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Sarah_Refaat\\OneDrive\\Desktop\\LibrarySystem\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-21T19:39:21.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "LibrarySystem",
+              "DocumentMoniker": "C:\\Users\\Sarah_Refaat\\OneDrive\\Desktop\\LibrarySystem\\LibrarySystem.csproj",
+              "RelativeDocumentMoniker": "LibrarySystem.csproj",
+              "ToolTip": "C:\\Users\\Sarah_Refaat\\OneDrive\\Desktop\\LibrarySystem\\LibrarySystem.csproj",
+              "RelativeToolTip": "LibrarySystem.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-21T19:39:13.963Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
