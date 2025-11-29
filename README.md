@@ -1,6 +1,6 @@
  **Overview**
 
-A Library Management System built with **C#** and **.NET 7 Web API** using **Onion Architecture**.
+A **C# .NET 9 Web API** Library Management System built with **Onion Architecture**.
 
 Supports user roles, book management, loans, categories, authors, and file uploads.
 
@@ -41,3 +41,5 @@ Supports user roles, book management, loans, categories, authors, and file uploa
 - Automatic late fee calculation
 - File uploads (book images)
 - Search & filtering for books, authors, categories
+- AutoMapper for mapping between entities and DTOs
+
